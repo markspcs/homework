@@ -55,11 +55,14 @@ img,
     margin:0;
     
 }
-
+/*
 #nav {
+    float: right;
     margin-top: 20px;
+    align: right;
+    
 }
-
+*/
 h2{
     padding: 15px;
     padding-top: 25px;
@@ -90,7 +93,7 @@ hr {
 .aboutImg {
     width: 200px;
     height: 200px;
-    /* float: left; */
+    float: left;
 }
 .clear{
     clear: both;
@@ -136,17 +139,16 @@ input[type=submit]{
     padding: 10px 20px;
 
 }
-
 .footer {
     border-top: 8px solid #4aaaa5;
     background: #666666;
-   /* width: 100%; */
+    width: 100%;
     height: 40px;
     text-align: center;
     color: white;
-   /* position: fixed;
+    position: fixed;
     bottom: 0;
-    left: 0; */
+    left: 0;
     font-size: 10px; 
 }
 .footer p{
@@ -154,10 +156,9 @@ input[type=submit]{
     font-size: 10px;
     position: absolute;
     bottom: 0;
-  /*  align-content: center; */
+    align-content: center;
     margin: 0;
 }
-
 .navbar{
     padding: 0;
 }

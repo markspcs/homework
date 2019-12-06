@@ -54,7 +54,7 @@
       <div id="body-text">
       <div class="row">
         <div class="col-md-4">
-          <img class="aboutImg" src="./assets/images/me.jpg" />
+          <img class="aboutImg" src="./assets/images/m1.jpg" />
         </div>
         <div class="col-md-8">
 
@@ -91,11 +91,9 @@
   </div>
   </div>
 
-  <footer class="container-fluid">
-      <nav class="navbar fixed-bottom footer">
-          <p>Copyright &copy;</p>
-      </nav>
-    </footer>
+  <div class="footer">
+    <p>Copyright &copy;</p>
+  </div>
 </body>
 
 </html>
