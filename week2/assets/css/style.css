@@ -9,7 +9,7 @@ body
     background-image: url("../images/backgroundConcrete.png");
     background-repeat: repeat;
   }
-  header {
+header {
       padding: 0;
       background: white;
       width: 100%;
@@ -149,4 +149,7 @@ input[type=submit]{
     bottom: 0;
     align-content: center;
     margin: 0;
+}
+.navbar{
+    padding: 0;
 }
